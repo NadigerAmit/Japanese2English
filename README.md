@@ -2,12 +2,19 @@
 My compilation for Translation for Japanese to English (Vocabulary improvement)
 
 ## Official Words 
+
 kangaekata  -> Approach
+
 Kanten  -> Perspective
+
 Sakusei suru -> Create
+
 Sabun  -> Difference 
+
 bunseki suru -> Analyze 
+
 Tateru  -> Make 
+
 Sukeju -> Schedule 
 barabara --> Scattered 
 Sukejuru o tateru  --> Make the schedule 
