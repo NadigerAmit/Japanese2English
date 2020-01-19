@@ -102,6 +102,8 @@ Bangumi   -> Program
 
 Bangumi joho -> Program information 
 
+Sentaku suru  -> Select.
+
 nado  -> etc 
 
 sen-kyoku  -> Tuning 
