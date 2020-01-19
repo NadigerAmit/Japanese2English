@@ -357,6 +357,12 @@ Doryoku -> Effort
 
 Tasukarimasu  -> Thats Help , That will be great.
 
+haigusha  ->  Spouse 
+
+Sagashite iru  -> Looking for 
+
+Shigoto o sagashiteimasu  -> I am searching job 
+
 Minogashite imashita.. ->I missed it .
 
 kininaru   -> to be bothered by , to feel uneasy
