@@ -96,6 +96,16 @@ chu          --> In progress
 ## Technical 
 Hoso -> Broadcast 
 
+Sen-kyoku -> Tuning 
+
+Bangumi   -> Program 
+
+Bangumi joho -> Program information 
+
+nado  -> etc 
+
+sen-kyoku  -> Tuning 
+
 Gijiroku       --> Minutes (Minutes of meeting ) 
 
 Riyo           --> Use.
