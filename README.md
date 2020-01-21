@@ -748,6 +748,8 @@ oboeru     --> Remember
 
 Sochi         --> Aware
 
+Onajimi   -> Familer 
+
 #### Introduction in Japanese :
 watashina no namai wa xxx desu .
 
