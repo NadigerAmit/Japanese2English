@@ -5,6 +5,8 @@ My compilation for Translation for Japanese to English (Vocabulary improvement)
 
 kangaekata  -> Approach
 
+Sodan  -> Consult 
+
 Kanten  -> Perspective
 
 Sakusei suru -> Create
