@@ -13,13 +13,17 @@ Sakusei suru -> Create
 
 Sabun  -> Difference 
 
-bunseki suru -> Analyze 
+bunseki suru -> Analyze
+
+Oshirase  -> Notice 
 
 Tateru  -> Make 
 
 Sukeju -> Schedule 
 
 Muko   -> Invalid
+
+Tsuchi -> Notification 
 
 barabara --> Scattered 
 
