@@ -19,6 +19,8 @@ Tateru  -> Make
 
 Sukeju -> Schedule 
 
+Muko   -> Invalid
+
 barabara --> Scattered 
 
 Sukejuru o tateru  --> Make the schedule 
