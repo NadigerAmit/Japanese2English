@@ -758,6 +758,9 @@ Sochi         --> Aware
 
 Onajimi   -> Familer 
 
+Ogori  --> Its on me  
+nomimono wa watashi no ogoridesu  => The drink is on me  [Can be said in the treat]
+
 #### Introduction in Japanese :
 watashina no namai wa xxx desu .
 
