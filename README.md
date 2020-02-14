@@ -5,6 +5,11 @@ My compilation for Translation for Japanese to English (Vocabulary improvement)
 
 kangaekata  -> Approach
 
+Kankei-sha -> stakeholder
+
+Shisaku   --> Measures 
+
+
 Sodan  -> Consult 
 
 Kanten  -> Perspective
