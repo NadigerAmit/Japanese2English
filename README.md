@@ -3,6 +3,10 @@ My compilation for Translation for Japanese to English (Vocabulary improvement)
 
 ## Official Words 
 
+Ketsuron   --> Conclusion
+
+Yuko     -> Valid , proper reasonable 
+
 kangaekata  -> Approach
 
 Kankei-sha -> stakeholder
@@ -364,11 +368,20 @@ Watashi wa anata no shien ni kansha shimasu -> I appreciate your support
 
 shien -> Support 
 
+
 Anata no doryoku ni kansha shimasu -> I appreciate your effort
 
 Doryoku -> Effort
 
 Tasukarimasu  -> Thats Help , That will be great.
+
+Shojiki   -> Honest , sincere
+
+Fusei   -> Dishonest 
+
+Ooraka  -> Careless 
+
+Nonbirishiteiru -> Careless 
 
 haigusha  ->  Spouse 
 
