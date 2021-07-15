@@ -776,6 +776,23 @@ Sochi         --> Aware
 
 Onajimi   -> Familer 
 
+
+• Kaizen (kai zen) - improvement
+• jōhō (ji ~youhou) – Information
+• jōken (ji ~youken) – condition
+• kibo (ki bo) – sukēru (of a purojekuto or plan)
+• shiyōgaki (shiyō sho) - specifications dokyumento
+• hoshu (hoshi ~yu) - maintenance, maintain
+• kiki (kiki) - equipment
+• nettowāku - network
+• hādouea – hardware
+• hiyō (hiyou) – expense
+• shori (shori) – process (like do a calculation, etc. )
+• Shūsei (shū sei) – edit
+• yōkyū (yō kyū) – demand, request (furomu a customer, etc. )
+• Un'yō (un yō) – operations (of a dēta sentā, etc. )
+
+
 Ogori  --> Its on me  
 nomimono wa watashi no ogoridesu  => The drink is on me  [Can be said in the treat]
 
