@@ -4,6 +4,7 @@ My compilation for Translation for Japanese to English (Vocabulary improvement)
 ## Official Words 
 
 eikyo      -> Impact 
+
 Ketsuron   --> Conclusion
 
 Yuko     -> Valid , proper reasonable 
