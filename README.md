@@ -2,6 +2,9 @@
 My compilation for Translation for Japanese to English (Vocabulary improvement)
 
 ## Official Words 
+
+Hoshin -> Policy 
+
 Naiyō no seisa ->  Scrutiny of content
 
 seisa -> Scrutiny
